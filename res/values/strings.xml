@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name2">Druga aktywnosc</string>
+    <string name="action_settings">Settings</string>
+    <string name="Pusty"/>
+    <string name="OutPar">Przekazywany Parametr :</string>
+    <string name="InPar">Odebrany parametr :</string>
+    <string name="Start">Start</string>
+    <string name="Stop">STOP</string>
+    <string name="app_name">app_name</string>
+    
+    
+   
+</resources>
